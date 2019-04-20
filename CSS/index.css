@@ -1,0 +1,30 @@
+body{
+    background-image: url("../Images/images.jpg") ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 100%;
+    background-attachment: fixed;  
+}
+.defaultTextBox {
+    border: 1px dotted #999;
+    border-radius: 20px;
+    -webkit-appearance: none;
+    height: 40px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.advancedSearchTextbox {
+    width: 526px;
+    margin-right: -4px;
+}
+.defaultCheckBox{ 
+    width: 20px;
+    height: 20px;
+}
+.defaultButton{
+    color:darkblue;
+    width: 65px;
+    height: 35px;
+    font-family: unset;
+    font-size: 25px; 
+}
